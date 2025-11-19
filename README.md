@@ -165,9 +165,9 @@ print(f"Consumo previsto: {consumo:.2f} kWh")
 
 ## 👨‍💻 Autor
 
-Carlos Meliga//
+Carlos Meliga //
 
-Trabalho desenvolvido para a disciplina de Inteligência Artificial Computacional  
+- Trabalho desenvolvido para a disciplina de Inteligência Artificial Computacional  
 
 ## 📝 Licença
 
