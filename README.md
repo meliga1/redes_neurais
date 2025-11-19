@@ -165,16 +165,9 @@ print(f"Consumo previsto: {consumo:.2f} kWh")
 
 ## 👨‍💻 Autor
 
+Carlos Meliga
 Trabalho desenvolvido para a disciplina de Inteligência Artificial Computacional  
-Data: 19/11/2025
 
 ## 📝 Licença
 
 Este projeto é para fins educacionais.
-
----
-
-**Nota:** Para entrega no CANVAS, incluir:
-- O código-fonte (este notebook)
-- Instruções de execução
-- Relatório com resultados e interpretações (gerado automaticamente no notebook)
