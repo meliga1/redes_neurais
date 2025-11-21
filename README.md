@@ -58,11 +58,7 @@ pip install numpy>=1.21.0 pandas>=1.3.0 matplotlib>=3.4.0 seaborn>=0.11.0 scikit
 
 ### 2. Executar o Notebook
 
-```bash
-jupyter notebook mlp_consumo_energia.ipynb
-```
-
-Ou abra o arquivo diretamente no VS Code.
+Abra o arquivo diretamente no VS Code.
 
 ### 3. Executar as Células
 
